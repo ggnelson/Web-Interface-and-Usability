@@ -1,10 +1,10 @@
 
 /*-------------------------------------------  general -------------------------------------------------------*/
 body{
-	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
+	color:#000000; /*changes color of the whole text*/
 	margin-top: 0;
+	background: linear-gradient(#C7D93C, #E32225);
 }
 #wrapper{
 	width:960px;
@@ -27,6 +27,9 @@ h1{
 }
 h2{
 	margin-top: 20px;
+}
+p{
+	font-size:75%;
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
